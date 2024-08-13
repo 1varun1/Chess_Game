@@ -10,4 +10,5 @@ This game is created in python programming language. Modules : pygame
 Running this game is pretty straight forward.
 
 pip install -r requirements.txt
+
 python ChessGame.py
